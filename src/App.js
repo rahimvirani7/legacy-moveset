@@ -34,7 +34,7 @@ class App extends Component {
             <h1>Legacy Movesets</h1>
 
             <nav>
-              <ul className="outer-table col-11 col-md-6 m-auto">
+              <ul className="outer-table col-11 col-md-10 col-lg-6 m-auto">
                 {
                   myDataSet
                     .map((mon, index) => {

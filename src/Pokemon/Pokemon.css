@@ -1,15 +1,3 @@
-.item {
-  width: 100%;
-  margin: auto;
-  padding: 1rem;
-}
-
-.mon-name {
-  font-size: 20px;
-  color: rgb(108, 108, 108);
-  margin-right: 10px;
-}
-
 li {
   border: 1px solid #000;
   border-bottom: 0px;
@@ -33,8 +21,34 @@ li:last-of-type {
   border-bottom: 1px solid rgb(108, 108, 108) ;
 }
 
+.item {
+  width: 100%;
+  margin: auto;
+  padding: 1.5rem;
+  position: relative;
+}
+
 .item p {
   display: inline-block;
+}
+
+span.dexno {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #6c6c6c;
+  border-width: 0 1px 1px 0;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 12px;
+  background: #fff3d7;
+}
+
+.mon-name {
+  font-size: 20px;
+  color: rgb(108, 108, 108);
+  margin-right: 10px;
 }
 
 .img-icon {
@@ -46,10 +60,18 @@ li:last-of-type {
   margin-top: 10px;
 }
 
+li.moveset {
+  background-color: #dfdfdf;
+  letter-spacing: 0.25px;
+  padding: 2px 0;
+  font-weight: 500;
+}
+
 
 .header {
   color: #fff;
-  font-size: 12px;;
+  font-size: 12px;
+  font-weight: 500;
 }
 .legacyQuick {
   background-color: rgb(0, 54, 125,0.6);
