@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Pokemon from './Pokemon/Pokemon';
 //import _ from 'lodash';
-import JSON from './Static/pokemon-data-full-en-PoGO.json';
+import PokeJSON from './Static/pokemon-data-full-en-PoGO.json';
+//import MoveJSON from './Static/move-data-full-PoGO.json';
 
 import './App.css';
 
 
-const completeDataSet = JSON;
+const completeDataSet = PokeJSON;
+//const completeMoveSet = MoveJSON;
 
 let myDataSet = completeDataSet.filter(
   obj => obj.field_legacy_charge_moves !== ""
@@ -27,7 +29,7 @@ class App extends Component {
   }
 
   render() {
-    //console.log(myDataSet);
+    //console.log(completeMoveSet);
     return (
         <div className="App">
           <header className="App-header">
