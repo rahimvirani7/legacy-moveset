@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e66ff0f96659cdfb0018b0d301a8156",
+    "revision": "70648332d60911fec86dfb6efdf1d68e",
     "url": "/legacy-moveset/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/legacy-moveset/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "d14fecfa75c8af1318e8",
-    "url": "/legacy-moveset/static/css/main.f646e8f7.chunk.css"
+    "revision": "fb948aa44e6ce1010295",
+    "url": "/legacy-moveset/static/css/main.8b9a3e5c.chunk.css"
   },
   {
     "revision": "b379c72928aa444deab2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/legacy-moveset/static/js/2.09a525f5.chunk.js.LICENSE"
   },
   {
-    "revision": "d14fecfa75c8af1318e8",
-    "url": "/legacy-moveset/static/js/main.c11d2b9f.chunk.js"
+    "revision": "fb948aa44e6ce1010295",
+    "url": "/legacy-moveset/static/js/main.3638ce14.chunk.js"
   },
   {
     "revision": "2bf2a646e1a5e2b509fe",
