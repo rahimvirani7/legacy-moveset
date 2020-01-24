@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70648332d60911fec86dfb6efdf1d68e",
+    "revision": "8c845acb198a61600d5d01737fc98380",
     "url": "/legacy-moveset/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/legacy-moveset/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "fb948aa44e6ce1010295",
+    "revision": "21236ea1192927ad297c",
     "url": "/legacy-moveset/static/css/main.8b9a3e5c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/legacy-moveset/static/js/2.09a525f5.chunk.js.LICENSE"
   },
   {
-    "revision": "fb948aa44e6ce1010295",
-    "url": "/legacy-moveset/static/js/main.3638ce14.chunk.js"
+    "revision": "21236ea1192927ad297c",
+    "url": "/legacy-moveset/static/js/main.311a125b.chunk.js"
   },
   {
     "revision": "2bf2a646e1a5e2b509fe",
